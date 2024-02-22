@@ -1,0 +1,20 @@
+﻿<section class="export-pdf-compunent">
+  <h1>Import Page Content as PDF</h1>
+
+  <!-- Main section -->
+  <section class="Generate-Pdf-section">
+    <!-- Form Section -->
+    <form>
+      <input type="text" [(ngModel)]="url" name="url" placeholder="Enter URL" />
+      <button (click)="convertToPdf()">Convert to PDF</button>
+    </form>
+
+    <!-- This section is for spinner animation -->
+    <section class="spin" [ngClass]="{ 'show-spinner': IsSpin }">
+      <div class="spinner"></div>
+    </section>
+
+    <!-- Button to generate the PDF -->
+    <button id="exportPDF-btn" (click)="ExportPDF()">Generate PDF</button>
+  </section>
+</section>

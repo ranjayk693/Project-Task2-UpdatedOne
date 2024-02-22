@@ -1,0 +1,109 @@
+﻿* {
+  margin: 0px;
+  padding: 0px;
+}
+/* Compunent Styling */
+.export-pdf-compunent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+  background-color: #3d3d3d;
+  position: relative;
+}
+
+/* Heading styling */
+.export-pdf-compunent h1 {
+  color: white;
+  position: absolute;
+  top: 10px;
+  font-size: 2.5rem;
+}
+
+/* Styling for Generate-Pdf-section   */
+.Generate-Pdf-section {
+  width: 80%;
+  min-height: 50%;
+  max-height: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 3rem;
+  border: 2px solid black;
+  background-color: white;
+  border-radius: 20px;
+}
+
+/* Form Styling */
+form {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+}
+
+/* Input Styling */
+input[type="text"] {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #333;
+  padding: 10px 20px;
+  border-radius: 5px;
+  height: 40px;
+  box-sizing: border-box;
+}
+
+/* Button Styling */
+button {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+button:hover {
+  background-color: #0056b3;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+button:active {
+  background-color: #004080;
+  box-shadow: none;
+}
+
+/* Spin section styling */
+.spin {
+  display: none;
+}
+
+.show-spinner {
+  display: block;
+}
+
+/* Spinner section*/
+.spinner {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 5px solid #ccc;
+  border-top-color: #333;
+  animation: spin 1s infinite linear;
+}
+
+/* Animation for spinner */
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
