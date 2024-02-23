@@ -7,6 +7,7 @@ namespace PdfExporter.Server
     {
         public static void Main(string[] args)
         {
+            var MyAllowSpecificOrigins = "_MyAllowSubdomainPolicy";
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
@@ -15,7 +16,7 @@ namespace PdfExporter.Server
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
-            //Adding cors configration
+            //Adding cors configration to avoid cors error
             builder.Services.AddCors(options =>
             {
                 options.AddPolicy("AllowAnyOrigin",
@@ -27,28 +28,28 @@ namespace PdfExporter.Server
                      });
             });
 
+            
+          
+
+            builder.Services.AddControllers();
 
             var app = builder.Build();
-
             app.UseDefaultFiles();
             app.UseStaticFiles();
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
-                app.UseCors("AllowOrigin");
-                app.UseCors("AllowAnyOrigin");
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
 
-            app.UseCors();
-            app.UseCors("AllowAnyOrigin");
-            app.UseHttpsRedirection();
-
+           
+            //app.UseCors("AllowAnyOrigin");
+            app.UseHttpsRedirection(); 
+            app.UseCors("AllowAnyOrigin"); 
+            app.UseSwagger();
             app.UseAuthorization();
-
-   
             app.MapControllers();
 
             app.MapFallbackToFile("/index.html");

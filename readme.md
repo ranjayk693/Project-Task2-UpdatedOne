@@ -13,3 +13,7 @@ Download the HTML content of type pdf and study .net for API creation and resear
 
 22 Feb -->
 Setup angular and .Net project and complete my task with PuppeteerSharp library in .net
+
+23 Feb -->
+Fix the bug (cors issue)
+Addd Functionality if user download the pdf once then the content will be set to null to avoid mutiple download for same click.

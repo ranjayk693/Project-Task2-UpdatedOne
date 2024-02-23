@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "NY+zhg2OmN5KY3bdqD+OhYJRTHQffbEYAOxOxhiSWYg=",
+  "Hash": "gwdX5dNkd2n9UeGbi5PVlgQYgnLLLfvBQQfUTvRAJmY=",
   "Source": "PdfExporter.Server",
   "BasePath": "_content/PdfExporter.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\ranja\\source\\repos\\PdfExporter\\pdfexporter.client\\pdfexporter.client.esproj",
+      "Identity": "C:\\Users\\admin\\Desktop\\project2new\\Project-Task2-UpdatedOne\\pdfexporter.client\\pdfexporter.client.esproj",
       "Version": 2,
       "Source": "pdfexporter.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

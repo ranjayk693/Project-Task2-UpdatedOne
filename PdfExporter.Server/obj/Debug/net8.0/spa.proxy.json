@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:4200",
 "RedirectUrl": "",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\ranja\\source\\repos\\PdfExporter\\PdfExporter.Server\\..\\pdfexporter.client",
+"WorkingDirectory": "C:\\Users\\admin\\Desktop\\project2new\\Project-Task2-UpdatedOne\\PdfExporter.Server\\..\\pdfexporter.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

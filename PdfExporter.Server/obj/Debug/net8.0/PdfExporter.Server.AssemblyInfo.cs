@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PdfExporter.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a9abfce7ba5f19503ffb9148487847eed1ad280")]
 [assembly: System.Reflection.AssemblyProductAttribute("PdfExporter.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PdfExporter.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

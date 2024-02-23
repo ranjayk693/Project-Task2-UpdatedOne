@@ -986,19 +986,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ranja\\.nuget\\packages\\": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ranja\\source\\repos\\PdfExporter\\PdfExporter.Server\\PdfExporter.Server.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\project2new\\Project-Task2-UpdatedOne\\PdfExporter.Server\\PdfExporter.Server.csproj",
       "projectName": "PdfExporter.Server",
-      "projectPath": "C:\\Users\\ranja\\source\\repos\\PdfExporter\\PdfExporter.Server\\PdfExporter.Server.csproj",
-      "packagesPath": "C:\\Users\\ranja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ranja\\source\\repos\\PdfExporter\\PdfExporter.Server\\obj\\",
+      "projectPath": "C:\\Users\\admin\\Desktop\\project2new\\Project-Task2-UpdatedOne\\PdfExporter.Server\\PdfExporter.Server.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\project2new\\Project-Task2-UpdatedOne\\PdfExporter.Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ranja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1018,6 +1018,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1064,7 +1069,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   },

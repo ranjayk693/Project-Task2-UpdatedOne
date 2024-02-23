@@ -68,5 +68,8 @@ export class AppComponent implements OnInit {
     document.body.appendChild(a);
     a.click();
     window.URL.revokeObjectURL(url);
+
+    // Clear the data after download the pdf
+    this.pdfBlob=null;
   }
 }

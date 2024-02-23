@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\project2new\\Project-Task2-UpdatedOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{740D5CFB-1077-4B24-9CE2-4B08E9A0731D}|PdfExporter.Server\\PdfExporter.Server.csproj|c:\\users\\admin\\desktop\\project2new\\project-task2-updatedone\\pdfexporter.server\\pdfexporter.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{740D5CFB-1077-4B24-9CE2-4B08E9A0731D}|PdfExporter.Server\\PdfExporter.Server.csproj|solutionrelative:pdfexporter.server\\pdfexporter.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213AECF9-A30A-4F48-AE1E-883C1F2CCF0F}|pdfexporter.client\\pdfexporter.client.esproj|c:\\users\\admin\\desktop\\project2new\\project-task2-updatedone\\pdfexporter.client\\pdfexporter.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{213AECF9-A30A-4F48-AE1E-883C1F2CCF0F}|pdfexporter.client\\pdfexporter.client.esproj|solutionrelative:pdfexporter.client\\pdfexporter.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740D5CFB-1077-4B24-9CE2-4B08E9A0731D}|PdfExporter.Server\\PdfExporter.Server.csproj|c:\\users\\admin\\desktop\\project2new\\project-task2-updatedone\\pdfexporter.server\\controllers\\pdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740D5CFB-1077-4B24-9CE2-4B08E9A0731D}|PdfExporter.Server\\PdfExporter.Server.csproj|solutionrelative:pdfexporter.server\\controllers\\pdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740D5CFB-1077-4B24-9CE2-4B08E9A0731D}|PdfExporter.Server\\PdfExporter.Server.csproj|c:\\users\\admin\\desktop\\project2new\\project-task2-updatedone\\pdfexporter.server\\model\\url.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740D5CFB-1077-4B24-9CE2-4B08E9A0731D}|PdfExporter.Server\\PdfExporter.Server.csproj|solutionrelative:pdfexporter.server\\model\\url.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740D5CFB-1077-4B24-9CE2-4B08E9A0731D}|PdfExporter.Server\\PdfExporter.Server.csproj|c:\\users\\admin\\desktop\\project2new\\project-task2-updatedone\\pdfexporter.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740D5CFB-1077-4B24-9CE2-4B08E9A0731D}|PdfExporter.Server\\PdfExporter.Server.csproj|solutionrelative:pdfexporter.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740D5CFB-1077-4B24-9CE2-4B08E9A0731D}|PdfExporter.Server\\PdfExporter.Server.csproj|c:\\users\\admin\\desktop\\project2new\\project-task2-updatedone\\pdfexporter.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740D5CFB-1077-4B24-9CE2-4B08E9A0731D}|PdfExporter.Server\\PdfExporter.Server.csproj|solutionrelative:pdfexporter.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213AECF9-A30A-4F48-AE1E-883C1F2CCF0F}|pdfexporter.client\\pdfexporter.client.esproj|c:\\users\\admin\\desktop\\project2new\\project-task2-updatedone\\pdfexporter.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{213AECF9-A30A-4F48-AE1E-883C1F2CCF0F}|pdfexporter.client\\pdfexporter.client.esproj|solutionrelative:pdfexporter.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pdfexporter.client",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project2new\\Project-Task2-UpdatedOne\\pdfexporter.client\\pdfexporter.client.esproj",
+              "RelativeDocumentMoniker": "pdfexporter.client\\pdfexporter.client.esproj",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project2new\\Project-Task2-UpdatedOne\\pdfexporter.client\\pdfexporter.client.esproj",
+              "RelativeToolTip": "pdfexporter.client\\pdfexporter.client.esproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-23T10:16:53.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project2new\\Project-Task2-UpdatedOne\\PdfExporter.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "PdfExporter.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project2new\\Project-Task2-UpdatedOne\\PdfExporter.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "PdfExporter.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T09:56:43.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "URL.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project2new\\Project-Task2-UpdatedOne\\PdfExporter.Server\\Model\\URL.cs",
+              "RelativeDocumentMoniker": "PdfExporter.Server\\Model\\URL.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project2new\\Project-Task2-UpdatedOne\\PdfExporter.Server\\Model\\URL.cs",
+              "RelativeToolTip": "PdfExporter.Server\\Model\\URL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T09:56:03.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project2new\\Project-Task2-UpdatedOne\\PdfExporter.Server\\Program.cs",
+              "RelativeDocumentMoniker": "PdfExporter.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project2new\\Project-Task2-UpdatedOne\\PdfExporter.Server\\Program.cs",
+              "RelativeToolTip": "PdfExporter.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T04:59:18.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project2new\\Project-Task2-UpdatedOne\\pdfexporter.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "pdfexporter.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project2new\\Project-Task2-UpdatedOne\\pdfexporter.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "pdfexporter.client\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-23T04:59:18.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PdfExporter.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project2new\\Project-Task2-UpdatedOne\\PdfExporter.Server\\PdfExporter.Server.csproj",
+              "RelativeDocumentMoniker": "PdfExporter.Server\\PdfExporter.Server.csproj",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project2new\\Project-Task2-UpdatedOne\\PdfExporter.Server\\PdfExporter.Server.csproj",
+              "RelativeToolTip": "PdfExporter.Server\\PdfExporter.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-23T04:59:18.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PdfController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project2new\\Project-Task2-UpdatedOne\\PdfExporter.Server\\Controllers\\PdfController.cs",
+              "RelativeDocumentMoniker": "PdfExporter.Server\\Controllers\\PdfController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project2new\\Project-Task2-UpdatedOne\\PdfExporter.Server\\Controllers\\PdfController.cs",
+              "RelativeToolTip": "PdfExporter.Server\\Controllers\\PdfController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T04:59:18.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

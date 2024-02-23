@@ -2,14 +2,14 @@
 using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using PuppeteerSharp;
- 
-    //creating api for receiving url and return the pdf of the url content using puppeteerSharp lib.
-    namespace PdfExporter.Controllers
+using PdfExporter.Model;
+
+//creating api for receiving url and return the pdf of the url content using puppeteerSharp lib.
+namespace PdfExporter.Controllers
     {
         [ApiController]
         [Route("api/[controller]")]     //Router to api/Pdf 
-        [EnableCors("AllowAnyOrigin")]  //this is used to avoid cors error
-        public class PdfController : ControllerBase
+    public class PdfController : ControllerBase
         {
             private readonly ILogger<PdfController> _logger;
 
