@@ -10,7 +10,7 @@ import { PdfExportComponent } from './service/pdf-export/pdf-export.component';
 @NgModule({
   declarations: [AppComponent, PdfExportComponent],
   imports: [BrowserModule, HttpClientModule, AppRoutingModule, FormsModule],
-  providers: [],
+  providers: [PdfExportComponent],
   bootstrap: [AppComponent],
 })
 export class AppModule {}

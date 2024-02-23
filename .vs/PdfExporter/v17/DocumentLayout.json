@@ -43,7 +43,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "pdfexporter.client",
+              "Title": "pdfexporter.client.esproj",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project2new\\Project-Task2-UpdatedOne\\pdfexporter.client\\pdfexporter.client.esproj",
               "RelativeDocumentMoniker": "pdfexporter.client\\pdfexporter.client.esproj",
               "ToolTip": "C:\\Users\\admin\\Desktop\\project2new\\Project-Task2-UpdatedOne\\pdfexporter.client\\pdfexporter.client.esproj",
@@ -75,8 +75,7 @@
               "RelativeToolTip": "PdfExporter.Server\\Model\\URL.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T09:56:03.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-23T09:56:03.758Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "PdfExporter.Server\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T04:59:18.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-23T04:59:18.701Z"
             },
             {
               "$type": "Document",
@@ -126,8 +124,7 @@
               "RelativeToolTip": "PdfExporter.Server\\Controllers\\PdfController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T04:59:18.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-23T04:59:18.721Z"
             }
           ]
         }

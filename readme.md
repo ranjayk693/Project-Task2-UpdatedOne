@@ -17,3 +17,4 @@ Setup angular and .Net project and complete my task with PuppeteerSharp library 
 23 Feb -->
 Fix the bug (cors issue)
 Addd Functionality if user download the pdf once then the content will be set to null to avoid mutiple download for same click.
+Add the Service compuenent for api calling 

@@ -1,5 +1,6 @@
 import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
+import { PdfExportComponent } from './service/pdf-export/pdf-export.component';
 
 @Component({
   selector: 'app-root',
@@ -7,6 +8,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrl: './app.component.css',
 })
 export class AppComponent implements OnInit {
+  constructor(private pdfConversionService:PdfExportComponent){}
   //URL of the web page
   url: string = '';
 
@@ -15,9 +17,6 @@ export class AppComponent implements OnInit {
 
   // Intially the spinner animation is hidden
   IsSpin = false;
-
-  // Injecting HttpClient
-  constructor(private http: HttpClient) {}
 
   ngOnInit(): void {}
 
@@ -33,24 +32,17 @@ export class AppComponent implements OnInit {
       return;
     }
 
-    //Get method is used to sent the url and recieve the pdf as a respons
-    this.http
-      .get(
-        `https://localhost:7105/api/Pdf?url=${encodeURIComponent(this.url)}`,
-        {
-          responseType: 'blob',
-        }
-      )
-      .subscribe(
-        (response: any) => {
-          this.pdfBlob = new Blob([response], { type: 'application/pdf' });
-          this.IsSpin = false;
-        },
-        (error) => {
-          this.IsSpin = false;
-          alert('Error converting to PDF. Please try again.');
-        }
-      );
+    //Service Call 
+    this.pdfConversionService.convertToPdf(this.url).subscribe(
+      (response: Blob) => {
+        this.pdfBlob = response;
+        this.IsSpin = false;
+      },
+      (error) => {
+        this.IsSpin = false;
+        alert('Error converting to PDF. Please try again.');
+      }
+    );
   }
 
   // This will generate the PDF
